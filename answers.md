@@ -46,4 +46,19 @@ Author: Ella Semancik <es175224@ohio.edu>
 Date:   Tue Sep 2 17:07:04 2025 -0400
 
     Initial commit
+9) The output is:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+10) No, the changes I made online were NOT reflected in my local copy.
+11) The remote has something that local doesn't.
+12) Yes, the changes I made online reflected in my local copy.
+13) .  .. git-lab-2 Labs
+
 
